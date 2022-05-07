@@ -1,0 +1,11 @@
+$theme-colors:(
+    "pushti":#cf58e7,
+    "primary": #0074d9,
+    "danger": #ff4136,
+    "info":rgb(115, 212, 106),
+    "success":rgb(115, 212, 106),
+    "warning":yellow,
+    "secondary":#ff4136
+);
+
+@import "../node_modules/bootstrap/scss/bootstrap.scss";
